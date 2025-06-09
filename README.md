@@ -1,6 +1,6 @@
 # Multimodal RAG App
 
-This repository contains a Jupyter notebook for building a **Multimodal Retrieval-Augmented Generation (RAG) pipeline** using PDFs. The workflow leverages advanced PDF parsing, extracts text, tables, and images, summarizes each modality, and enables retrieval of relevant information using language models including multi-modal LLMs like GPT-4 Vision.
+This repository contains a Jupyter notebook for building a **Multimodal Retrieval-Augmented Generation (RAG) pipeline** using PDFs. The workflow leverages advanced PDF parsing, extracts text, tables, and images, summarizes each modality, and enables retrieval of relevant information using language models including multi-modal LLMs like GPT-4.1 Vision.
 
 ## Features
 
