@@ -1,0 +1,13 @@
+unstructured
+langchain
+langchain-core
+langchain-openai
+langchain-community
+chromadb
+openai
+python-dotenv
+pytesseract
+Pillow
+tqdm
+poppler-utils; platform_system != "Windows"
+# For Windows: install poppler and tesseract manually as per README instructions
