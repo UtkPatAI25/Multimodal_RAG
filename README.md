@@ -2,6 +2,9 @@
 
 This repository contains a Jupyter notebook for building a **Multimodal Retrieval-Augmented Generation (RAG) pipeline** using PDFs. The workflow leverages advanced PDF parsing, extracts text, tables, and images, summarizes each modality, and enables retrieval of relevant information using language models including multi-modal LLMs like GPT-4.1 Vision.
 
+![image](https://github.com/user-attachments/assets/c2e9366c-609f-43e5-aed4-71cdd34847ec)
+
+
 ## Features
 
 - **PDF Parsing with Unstructured:** Extracts text, images, and tables from PDFs.
